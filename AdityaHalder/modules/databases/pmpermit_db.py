@@ -2,7 +2,7 @@
 import asyncio
 from AdityaHalder.modules.databases import cli
 
-collection = cli["Kaal"]["pmpermit"]
+collection = cli["Kanna"]["pmpermit"]
 
 PMPERMIT_MESSAGE = (
     "**ᴡᴀʀɴɪɴɢ!⚠️ ᴘʟᴢ ʀᴇᴀᴅ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴄᴀʀᴇꜰᴜʟʟʏ..\n\n**"
