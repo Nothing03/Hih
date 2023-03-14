@@ -19,5 +19,5 @@ MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://jinkun:raizel9783@cluster0.
 OWNER_ID = list(map(int, getenv("OWNER_ID", "6053718986").split()))
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001942569130"))
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6053718986").split()))
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/XdityaHalder/Genius-Userbot")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Nothing03/Hih")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "aditya")
